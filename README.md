@@ -74,13 +74,17 @@ l'écriture de requêtes SQL manuellement.</p>
 <img src="captures/infosPageChercher.PNG">
 
  <li>Migration de H2 Database vers MySQL</li>
-<H2> les données avec H2 Database</H2>
+<H2> les données avec My SQL</H2>
 <img src="captures/db_h2.PNG">
 <H2> les données avec H2 Database</H2>
 
 <img src="captures/sql.PNG">
 <img src="captures/sql2.PNG">
 <img src="captures/sql3.PNG">
+<p>Détails de l'exécution de l'application Java avec My SQML</p>
+<img src="captures/sql4.PNG">
+<img src="captures/sql5.PNG">
+
 
 
 

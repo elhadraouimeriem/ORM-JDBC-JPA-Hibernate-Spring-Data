@@ -29,7 +29,7 @@ public class JpaApApplication implements CommandLineRunner {
 
         }
         //patientRepository.save(new Patient(null, "fatima-ezzahra", new Date(), false, 78));
-        // patientRepository.save(new Patient(null, "abdelali", new Date(), false, 100));
+       // patientRepository.save(new Patient(null, "abdelali", new Date(), false, 100));
         System.out.println("***********liste des patients***********");
         Page<Patient> patients = patientRepository.findAll(PageRequest.of(1,5));
         System.out.println("================== infos de la page ========================");
@@ -63,6 +63,6 @@ public class JpaApApplication implements CommandLineRunner {
         }
         patient.setScore(870);
         patientRepository.save(patient);
-        // patientRepository.deleteById(1L);
+        patientRepository.deleteById(1L);
     }
 }
