@@ -70,10 +70,20 @@ l'écriture de requêtes SQL manuellement.</p>
   <img src="captures/jparepository.PNG" alt="JPA Repository">
 
   <li>Tests des Opérations de Gestion</li>
+<img src="captures/afficherlespatient.PNG">
+<img src="captures/infosPageChercher.PNG">
 
  <li>Migration de H2 Database vers MySQL</li>
 <H2> les données avec H2 Database</H2>
 <img src="captures/db_h2.PNG">
+<H2> les données avec H2 Database</H2>
+
+<img src="captures/sql.PNG">
+<img src="captures/sql2.PNG">
+<img src="captures/sql3.PNG">
+
+
+
 
 </ol>
 
