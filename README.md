@@ -52,7 +52,7 @@
  <img src="captures/depen3.png" alt="dependencies">
  <img src="captures/depen4.png" alt="dependencies">
 <p>Ensuite, on crée l'entité JPA Patient avec les attributs demandés</p>
-<p>test testdd
+<p>test test test 
 </p>
 
 <p>test testdd
