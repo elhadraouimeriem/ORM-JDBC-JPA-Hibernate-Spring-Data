@@ -47,10 +47,10 @@
   </ul>
 <p>Lorsque je  consulte le fichier pom.xml, je trouve que les dépendances
   ont été bien ajouté<</p>
-  <img src="captures/depen1.png" alt="dependencies">
- <img src="captures/depen2.png" alt="dependencies">
- <img src="captures/depen3.png" alt="dependencies">
- <img src="captures/depen4.png" alt="dependencies">
+  <img src="captures/depen1.PNG" alt="dependencies">
+ <img src="captures/depen2.PNG" alt="dependencies">
+ <img src="captures/depen3.PNG" alt="dependencies">
+ <img src="captures/depen4.PNG" alt="dependencies">
 <p>Ensuite, on crée l'entité JPA Patient avec les attributs demandés</p>
 <p>test test test 
 </p>
