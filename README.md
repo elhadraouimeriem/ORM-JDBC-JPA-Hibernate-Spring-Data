@@ -57,9 +57,16 @@
  <img src="captures/depen3.png" alt="dependencies">
  <img src="captures/depen4.png" alt="dependencies">
 <p>Ensuite, on crée l'entité JPA Patient avec les attributs demandés</p>
+<<<<<<< HEAD
 <p>test testdd
 </p>
 
 </ol>
 </body>
 </html>
+=======
+
+</ol>
+</body>
+</html>
+>>>>>>> 8c905c9 (first commit)
