@@ -41,7 +41,7 @@
   </p>
   <ul>
     <li>JPA</li>
-    <li>v</li>
+    <li>H2 (base de données en mémoire)</li>
     <li>Spring Web (pour les contrôleurs web)</li>
     <li>Lombok (pour la génération automatique de code)</li>
   </ul>
