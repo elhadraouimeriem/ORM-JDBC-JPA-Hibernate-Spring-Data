@@ -84,10 +84,19 @@ l'écriture de requêtes SQL manuellement.</p>
 <p>Détails de l'exécution de l'application Java avec My SQML</p>
 <img src="captures/sql4.PNG">
 <img src="captures/sql5.PNG">
+<h2>Conclusion</h2>
 
+<p>Ce TP N°2 a porté sur la création d'une application Java Spring utilisant JPA, Hibernate, Spring Data et une base de données H2. L'objectif principal était de mettre en place une application de gestion des patients,
+en créant des entités JPA, configurant une unité de persistance, et en utilisant un repository Spring Data pour effectuer diverses opérations de gestion des patients.
+<br>
+En outre, le TP a exploré la migration de la base de données 
+H2 vers MySQL, montrant comment passer d'une base de données 
+de développement à une base de données de production tout en maintenant la cohérence des données.
+<br>
 
-
-
+En conclusion, ce TP a permis d'acquérir des compétences essentielles
+en développement d'applications Java Spring, en gestion de bases de données, 
+et en migration, tout en réalisant un projet pratique de gestion des patients.</p>
 
 </ol>
 
