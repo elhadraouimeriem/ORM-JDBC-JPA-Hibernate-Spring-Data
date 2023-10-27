@@ -56,20 +56,19 @@
 <p>J'introduis une entité JPA nommée "Patient" avec les attributs suivants :
 id (de type Long), nom (de type String), 
 dateNaissance (de type Date), malade (de type booléen) et score (de type int).</p>
-
-p>Ensuite, on crée l'entité JPA Patient avec les attributs demandés</p>
+  <img src="captures/entity.PNG" alt="entity">
   <li>Configuration de l'Unité de Persistance</li>
 <p>J'effectue la configuration de l'unité de persistance dans le fichier
 application.properties, où je définis les paramètres de connexion à la
 base de données H2, notamment le chemin JDBC,
 le nom d'utilisateur et le mot de passe.</p>
-
-p>Ensuite, on crée l'entité JPA Patient avec les attributs demandés</p>
-
+  <img src="captures/properties.PNG" alt="Properties">
   <li>Création de l'Interface JPA Repository</li>
 <p>J'élabore une interface JPA Repository en 
 utilisant Spring Data. Cette interface permettra d'effectuer des opérations de base de données sans nécessiter
 l'écriture de requêtes SQL manuellement.</p>
+  <img src="captures/jparepository.PNG" alt="JPA Repository">
+
   <li>Tests des Opérations de Gestion</li>
 
  <li>Migration de H2 Database vers MySQL</li>
