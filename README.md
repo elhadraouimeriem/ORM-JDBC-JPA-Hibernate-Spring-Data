@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>TP N°2 - ORM JDBC JPA Hibernate  Spring Data</title>
-</head>
-<body>
+
+
 <h2>Introduction</h2>
 <p>Le TP N°2 se concentre sur la mise en œuvre d'une application Java Spring qui utilise la technologie JPA (Java Persistence API) en conjonction avec Hibernate, Spring Data, et une base de données H2. ORM (Object-Relational Mapping) est une technique clé au cœur de cette tâche, permettant de relier les entités Java aux tables de la base de données. Spring Data facilite l'accès aux données en fournissant des méthodes de requête automatisées pour les opérations CRUD (Create, Read, Update, Delete).
   <br>
@@ -57,16 +52,9 @@
  <img src="captures/depen3.png" alt="dependencies">
  <img src="captures/depen4.png" alt="dependencies">
 <p>Ensuite, on crée l'entité JPA Patient avec les attributs demandés</p>
-<<<<<<< HEAD
+
 <p>test testdd
 </p>
 
 </ol>
-</body>
-</html>
-=======
 
-</ol>
-</body>
-</html>
->>>>>>> 8c905c9 (first commit)
